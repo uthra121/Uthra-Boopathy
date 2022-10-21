@@ -1,0 +1,15 @@
+h1{
+	color:darkblue;
+	font-size:35;
+	font-style:"DM Serif Text";
+}
+h2,h3{
+	color:purple;
+	font-size:32;
+	font-style:"EB Garamond"
+}
+p{
+	color:darkgreen;
+	font-size:19;
+	font-style:"PT Serif"
+}
