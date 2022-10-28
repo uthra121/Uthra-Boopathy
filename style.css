@@ -1,15 +1,60 @@
+
 h1{
 	color:darkblue;
-	font-size:35;
+	font-size:40;
 	font-style:"DM Serif Text";
 }
-h2,h3{
+h2{
 	color:purple;
 	font-size:32;
 	font-style:"EB Garamond"
 }
+h3{
+	color:#200167;
+	font-size:28;
+	font-style:"Roboto Slab";
+	text-align:;
+}
 p{
-	color:darkgreen;
-	font-size:19;
+	color:black;
+	font-size:22;
 	font-style:"PT Serif"
 }
+body{
+	background-attachment:fixed;
+	background-image: url('bg.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;
+	
+}
+
+img{	
+    
+	
+	position:top-left;
+	float: right;
+	
+}	
+info{
+    float:left;
+      	
+}
+h2.about{
+	color:#70048b;
+}
+
+
+.nav{
+	text-align:center;
+	background-color:pink;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+
+a{
+	text-decoration:none;
+	padding:10px;
+}
+
+
